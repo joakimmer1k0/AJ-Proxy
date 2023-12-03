@@ -1,6 +1,11 @@
 # Silviozas-Proxy
 Growtopia Silviozas Proxy Source
 
+## How to use
+* Build with Release x64
+
+* Start proxy -> auto patch hosts -> Works as supposed
+
 ## Features
 * [P] Visual Clothes & Effects Are Now Fully Visible To Other Proxy Users!
 * Removed ADS (Advertisement background) on No-Weather Worlds;
