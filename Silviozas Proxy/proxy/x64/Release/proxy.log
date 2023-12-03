@@ -1,0 +1,102 @@
+﻿  dialog.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\dialog.cpp(94,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  events.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'events.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'events.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'events.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\items_dat_decode.h(131,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'events.cpp')
+  
+  gt.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\httplib.h(239,10): error C1083: Cannot open include file: 'openssl/err.h': No such file or directory
+  (compiling source file 'events.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'gt.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'gt.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'gt.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\Pathfinder\PathFinder.h(84,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'gt.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\Pathfinder\PathFinder.h(85,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'gt.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\gt.cpp(87,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\gt.cpp(88,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\gt.cpp(101,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\gt.cpp(102,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  http.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'http.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'http.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'http.cpp')
+  
+  playerInventory.cpp
+  print.cpp
+  proxy.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proxy.cpp(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proxy.cpp(3,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\httplib.h(239,10): error C1083: Cannot open include file: 'openssl/err.h': No such file or directory
+  (compiling source file 'proxy.cpp')
+  
+  server.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\items_dat_decode.h(131,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(176,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(266,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(267,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(287,42): warning C4101: 'packet': unreferenced local variable
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(312,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(312,37): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(320,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(425,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(430,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(433,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(436,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(439,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(442,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(445,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(448,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(452,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(455,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(458,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(693,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\server.cpp(774,50): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  utils.cpp
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(322,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'utils.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(339,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'utils.cpp')
+  
+C:\Users\brxtx\Downloads\Growtopia-Kulo-Proxy-main\Growtopia-Kulo-Proxy-main\proxy\proton\variant.hpp(355,30): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'utils.cpp')
+  
+  Generating Code...
