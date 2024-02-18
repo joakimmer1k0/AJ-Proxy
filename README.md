@@ -1,8 +1,9 @@
-# Silviozas-Proxy
-Growtopia Silviozas Proxy Source
+# AJProxy
+Growtopia AJProxy
 
 ## How to use
-* Build with Release x64
+* Remove virus protection / for false detect
+* Open proxy as admin and login to gt
 
 * Start proxy -> auto patch hosts -> Works as supposed
 
